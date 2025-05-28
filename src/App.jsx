@@ -62,7 +62,6 @@ function App() {
       {admin ? (
         <>
           <div className="fixed inset-0 z-0">
-            {/* Color of the website=> can be changed from here  500 400 500 was good*/}
             <div className="absolute inset-0 bg-gradient-to-br from-gray-300 via-gray-200 to-gray-300 opacity-80" />
             <div className="absolute inset-0 backdrop-blur-sm" />
           </div>

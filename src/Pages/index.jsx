@@ -285,4 +285,3 @@ export class RealtimeData extends React.Component {
   }
 }
 
-// export default RealtimeData;

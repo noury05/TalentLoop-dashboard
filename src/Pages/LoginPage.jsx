@@ -1,4 +1,3 @@
-// Pages/LoginPage.jsx
 import { useState } from 'react';
 import { ref, query, orderByChild, equalTo, get } from 'firebase/database';
 import { useNavigate } from 'react-router-dom';
